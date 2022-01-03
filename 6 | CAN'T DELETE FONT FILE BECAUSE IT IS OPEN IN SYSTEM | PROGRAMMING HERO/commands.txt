@@ -1,0 +1,6 @@
+NOTE - MAKE SURE THAT'S NOT A SYSTEM FILE, YOUR SYSTEM MAY CRASH IF YOU WILL DELETE A SYSTEM FILE, THIS HAPPENED TO ME WITH A FONT FILE SO, THAT'S WHY I DELETED IT
+
+Run powershell as administrator
+$ del font.otf
+
+Replace your font file name with font.otf (dont remove .otf)
