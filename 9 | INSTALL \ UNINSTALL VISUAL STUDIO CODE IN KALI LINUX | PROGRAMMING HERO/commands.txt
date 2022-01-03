@@ -1,0 +1,8 @@
+INSTALL -
+
+$ wget https://az764295.vo.msecnd.net/stable/7f6ab5485bbc008386c4386d08766667e155244e/code_1.60.2-1632313585_amd64.deb
+$ sudo dpkg -i code_1.60.2-1632313585_amd64.deb
+
+UNINSTALL -
+
+$ sudo --purge code
