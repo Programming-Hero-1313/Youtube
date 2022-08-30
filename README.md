@@ -48,11 +48,9 @@ You can install the all requirements from requirements.txt by using pip.
 
 **Enter the speed Limit**
 - Enter the *Speed Limit* in the input box you want to set
- [![4vKJMg.md.jpg](https://iili.io/4vKJMg.md.jpg)](https://freeimage.host/i/4vKJMg)
 
 **Click On Start Button**
  - Click on *Start* Button and select the video file
- ![ExampleImage2]("https://i.postimg.cc/htZyfXtx/Example-Image2.jpg")
 
     Now Sheriff should Start detecting car speed from the provided video
     Do the following steps when the detection is complete
@@ -60,12 +58,10 @@ You can install the all requirements from requirements.txt by using pip.
 
 **Navigate to overspeeding directory**
  - Navigate to *Overspeeding* directory to see the report
- ![ExampleImage3]("https://i.postimg.cc/TwMcDgMy/Example-Image3.jpg")
 
 **Navigate to overspeeding/cars directory**
  - Navigate to cars directory located in overspeeding directory to see the *images of cars* which were overspeeding
- ![ExampleImage4]("https://i.postimg.cc/QtJcKzJP/Example-Image4.jpg")
-
+ 
 ## Contact
 
 - `Email` - ggambhir1919@gmail.com
